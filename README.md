@@ -1,5 +1,5 @@
 ### Hello There!
 
-I am currently open for freelance development work.
+I run my own freelance consulting agency for web and IT services called [Swent Consulting](https://www.swent-consulting.com).
 
-Contact me at [jake@osprey21.com](mailto:jake@osprey21.com)
+If you'd like to reach out, contact me at [contact@jwswent.com](mailto:contact@jwswent.com).
